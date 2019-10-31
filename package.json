@@ -31,7 +31,7 @@
     "guid-typescript": "^1.0.9",
     "angular-font-awesome": "^3.1.2",
     "core-js": "^2.5.4",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "rxjs": "~6.5.1",
     "tslib": "^1.9.0",
     "uuid": "^3.3.2",
